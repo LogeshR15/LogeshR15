@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @LogeshR15
-- 👀 I’m interested in Digital marketing and learning new stuff's
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on new app ideas
+Pretending to be devloper. 
+
+Curious soul. 
+
+Bilnd lead by Claude
+
 - 📫 How to reach me -
 Logeshl2003@gmail.com 
 https://www.linkedin.com/in/logesh-ramasamy/
